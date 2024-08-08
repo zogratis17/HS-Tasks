@@ -24,6 +24,8 @@ const App = () => {
             </Route>
         </Routes>
       </BrowserRouter>
+
+
       {/* <div className='header'>
 
         <Header />
